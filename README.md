@@ -42,14 +42,6 @@ repositories: 14
 
 </details>
 
-## Experiments
-
-- **[zahrakhorram2314-del](https://github.com/zahrakhorram2314-del/zahrakhorram2314-del)** — Featured public work · ⭐ 0
-- **[mana-journal-2026](https://github.com/zahrakhorram2314-del/mana-journal-2026)** — A secure, privacy-first AI self-reflection and mindful journaling web application powered by Google Gemini API and Firebase. · ⭐ 0
-- **[manas](https://github.com/zahrakhorram2314-del/manas)** — Featured public work · ⭐ 0
-- **[bigquery-mcp-agent](https://github.com/zahrakhorram2314-del/bigquery-mcp-agent)** — Featured public work · ⭐ 0
-- **[coffee-barista-gcp](https://github.com/zahrakhorram2314-del/coffee-barista-gcp)** — Featured public work · ⭐ 0
-- **[coffee-shop-ai-agent](https://github.com/zahrakhorram2314-del/coffee-shop-ai-agent)** — Featured public work · ⭐ 0
 
 ## Findings
 

@@ -1,6 +1,4 @@
-# Hi, I'm ZAHRA  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" /></h3>
-
-
+# Hi, I'm ZAHRA
 I'm a psychology student interested in how people think, learn, and interact with technology.
 
 I'm exploring UX Research and Generative AI, and I enjoy turning what I learn into simple, human-centered AI experiences.

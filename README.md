@@ -1,4 +1,4 @@
-# Hi, I'm ZAHRA 👋 <h3> Hi, I'm ZAHRA<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" /></h3>
+# Hi, I'm ZAHRA  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" /></h3>
 
 
 I'm a psychology student interested in how people think, learn, and interact with technology.

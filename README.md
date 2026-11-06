@@ -1,22 +1,25 @@
-# Hi, I'm ZAHRA
-I'm a psychology student interested in how people think, learn, and interact with technology.
+# Hi, I'm Zahra 👋
 
-I'm exploring UX Research and Generative AI, and I enjoy turning what I learn into simple, human-centered AI experiences.
+Psychology student building toward UX Research. I study how people think and decide, then test that with small AI products.
 
-## 🚀 What I've Built
+## Projects
 
-### 🌱 Mana
-An AI journaling experience designed to make everyday reflection feel a little easier and less overwhelming.
+### 🌱 Mana: AI journaling companion
+**Problem:** Reflection feels overwhelming when you don't know where to start.
+**What I did:** Designed a gentle, guided journaling flow with Gemini, Firebase and Google Cloud.
+[Repo](https://github.com/zahrakhorram2314-del/mana_ai)
 
-Built with Gemini API, Firebase, and Google Cloud.
+### 🧠 Cognitive UX Co-Creator
+**Problem:** Designers rarely get early feedback on cognitive load and accessibility.
+**What I did:** Built an AI agent in Google AI Studio that evaluates friction, decision load and accessibility.
+[Repo](https://github.com/zahrakhorram2314-del/cognitive-ux-cocreator)
 
-### ☕ BrewPulse AI
-An AI co-pilot concept for coffee shops, exploring how Generative AI can help with everyday operational decisions.
+### 🎙️ Ava AI Transcriber
+Voice and speech-to-text app (TypeScript).
+[Repo](https://github.com/zahrakhorram2314-del/ava-ai-transcriber-)
 
-## 🔎 What I'm Exploring
+## Focus
+UX Research · Human-Centered AI · Psychology & UX
 
-- UX Research
-- Human-Centered AI
-- Generative AI
-- Prompt Engineering
-- Psychology & UX
+## Links
+[Portfolio](https://zahrakhorram2314-del.github.io/-zahra-khorram-portfolio/) · [LinkedIn](https://linkedin.com/in/%C2%B0zahra-k-9a73a6423) · [Medium](https://zahrakhorram2314.medium.com/)

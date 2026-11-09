@@ -1,25 +1,47 @@
-# Hi, I'm ZAHRA👋
+Hi, I'm Zahra Khorram 👋
 
-Psychology student building toward UX Research. I study how people think and decide, then test that with small AI products.
+Psychology student exploring UX Research, Cognitive Psychology, and Human-Centered AI.
 
-## Projects
+I'm interested in understanding how people think, make decisions, and interact with AI products — and how psychology can help create more meaningful and responsible user experiences.
 
-### 🌱 Mana: AI journaling companion
-**Problem:** Reflection feels overwhelming when you don't know where to start.
-**What I did:** Designed a gentle, guided journaling flow with Gemini, Firebase and Google Cloud.
-[Repo](https://github.com/zahrakhorram2314-del/mana_ai)
+🌱 Featured Projects
 
-### 🧠 Cognitive UX Co-Creator
-**Problem:** Designers rarely get early feedback on cognitive load and accessibility.
-**What I did:** Built an AI agent in Google AI Studio that evaluates friction, decision load and accessibility.
-[Repo](https://github.com/zahrakhorram2314-del/cognitive-ux-cocreator)
+Mana — AI Journaling & Self-Reflection
 
-### 🎙️ Ava AI Transcriber
-Voice and speech-to-text app (TypeScript).
-[Repo](https://github.com/zahrakhorram2314-del/ava-ai-transcriber-)
+An AI-assisted journaling project exploring guided reflection, user agency, and responsible AI.
 
-## Focus
-UX Research · Human-Centered AI · Psychology & UX
+- Focus: Reflective UX, cognitive support, privacy, and clear AI boundaries.
+- Built with Gemini, React, TypeScript, and Firebase.
+- "Explore the Repository" (https://github.com/zahrakhorram2314-del/mana_ai)
+- "Read the Case Study" (https://github.com/zahrakhorram2314-del/mana_ai/blob/main/CASE_STUDY.md)
 
-## Links
-[Portfolio](https://zahrakhorram2314-del.github.io/-zahra-khorram-portfolio/) · [LinkedIn](https://linkedin.com/in/%C2%B0zahra-k-9a73a6423) · [Medium](https://zahrakhorram2314.medium.com/)
+🧠 Cognitive UX Co-Creator
+
+A prototype exploring how cognitive psychology and usability principles can support early UX design reviews.
+
+- Focus: Cognitive load, interaction friction, and accessibility considerations.
+- "Explore the Repository" (https://github.com/zahrakhorram2314-del/cognitive-ux-cocreator)
+
+🎙️ Avā — Persian AI Transcriber
+
+A mobile-first voice-to-text project focused on Persian transcription and editing workflows.
+
+- "Explore the Repository" (https://github.com/zahrakhorram2314-del/ava-ai-transcriber-)
+
+🔍 Areas I'm Exploring
+
+- UX Research & Usability Testing
+- Cognitive Psychology × UX
+- Human-AI Interaction
+- Human-Centered & Responsible AI
+- AI-Assisted Product Experiences
+
+🤝 Connect With Me
+
+- "Portfolio" (https://zahrakhorram2314-del.github.io/-zahra-khorram-portfolio/)
+- "LinkedIn" (https://linkedin.com/in/%C2%B0zahra-k-9a73a6423)
+- "Medium" (https://zahrakhorram2314.medium.com/)
+
+---
+
+Learning by building, documenting design decisions, and improving ideas through feedback.

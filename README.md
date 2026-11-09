@@ -1,4 +1,4 @@
-# Hi, I'm melika 👋
+# Hi, I'm ZAHRA👋
 
 Psychology student building toward UX Research. I study how people think and decide, then test that with small AI products.
 

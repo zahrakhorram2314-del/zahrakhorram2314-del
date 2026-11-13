@@ -15,6 +15,9 @@ An AI-assisted journaling project exploring guided reflection, user agency, and 
 - "Explore the Repository" (https://github.com/zahrakhorram2314-del/mana_ai)
 - "Read the Case Study" (https://github.com/zahrakhorram2314-del/mana_ai/blob/main/CASE_STUDY.md)
 
+  ---
+
+
 🧠 Cognitive UX Co-Creator
 
 A prototype exploring how cognitive psychology and usability principles can support early UX design reviews.
@@ -28,6 +31,8 @@ A mobile-first voice-to-text project focused on Persian transcription and editin
 
 - "Explore the Repository" (https://github.com/zahrakhorram2314-del/ava-ai-transcriber-)
 
+  ---
+
 🔍 Areas I'm Exploring
 
 - UX Research & Usability Testing
@@ -35,6 +40,8 @@ A mobile-first voice-to-text project focused on Persian transcription and editin
 - Human-AI Interaction
 - Human-Centered & Responsible AI
 - AI-Assisted Product Experiences
+
+---
 
   🔐 Psychological Privacy Leakage
 

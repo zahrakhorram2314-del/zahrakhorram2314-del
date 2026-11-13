@@ -36,6 +36,14 @@ A mobile-first voice-to-text project focused on Persian transcription and editin
 - Human-Centered & Responsible AI
 - AI-Assisted Product Experiences
 
+  🔐 Psychological Privacy Leakage
+
+An independent research project exploring how conversational AI interaction design may influence users' privacy awareness and self-disclosure decisions.
+
+- Focus: Human-AI Interaction, privacy-aware UX, data minimization, and responsible AI.
+- Status: Research protocol and conceptual analysis in development; no participant data or empirical findings reported.
+- "Explore the Research Repository" (https://github.com/zahrakhorram2314-del/psychological-privacy-leakage)
+
 🤝 Connect With Me
 
 - "Portfolio" (https://zahrakhorram2314-del.github.io/-zahra-khorram-portfolio/)

@@ -31,6 +31,15 @@ A mobile-first voice-to-text project focused on Persian transcription and editin
 
 - "Explore the Repository" (https://github.com/zahrakhorram2314-del/ava-ai-transcriber-)
 
+---
+🔐 Psychological Privacy Leakage
+
+An independent research project exploring how conversational AI interaction design may influence users' privacy awareness and self-disclosure decisions.
+
+- Focus: Human-AI Interaction, privacy-aware UX, data minimization, and responsible AI.
+- Status: Research protocol and conceptual analysis in development; no participant data or empirical findings reported.
+- "Explore the Research Repository" (https://github.com/zahrakhorram2314-del/psychological-privacy-leakage)
+
   ---
 
 🔍 Areas I'm Exploring
@@ -42,14 +51,6 @@ A mobile-first voice-to-text project focused on Persian transcription and editin
 - AI-Assisted Product Experiences
 
 ---
-
-  🔐 Psychological Privacy Leakage
-
-An independent research project exploring how conversational AI interaction design may influence users' privacy awareness and self-disclosure decisions.
-
-- Focus: Human-AI Interaction, privacy-aware UX, data minimization, and responsible AI.
-- Status: Research protocol and conceptual analysis in development; no participant data or empirical findings reported.
-- "Explore the Research Repository" (https://github.com/zahrakhorram2314-del/psychological-privacy-leakage)
 
 🤝 Connect With Me
 
